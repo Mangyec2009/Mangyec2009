@@ -64,4 +64,59 @@ It combines an online spare parts store with service listings, creating a conven
 **Social media platform inspired by Instagram**
 
 A social media application that replicates the core functionality of Instagram.  
-Built to practice real-world features such as authentication, content
+Built to practice real-world features such as authentication, content interaction, and dynamic UI updates.
+
+**Features:**
+- User authentication & profiles  
+- Post creation and media sharing  
+- Likes and social interactions  
+- Responsive modern design  
+
+**Tech Stack:** React, Next.js, Backend API, Database
+
+---
+
+### 🛒 StoreGalaxy  
+**E-commerce platform with admin panel**
+
+StoreGalaxy is a full-featured online store focused mainly on electronics and tech products.  
+The project includes a **separate admin dashboard** that allows full control over the platform.
+
+**Features:**
+- Product catalog & shopping experience  
+- Order management system  
+- Admin panel for managing products, users, and orders  
+- Scalable structure for large inventories  
+
+**Tech Stack:** Next.js, TypeScript, Backend API, Database, Admin Panel
+
+---
+
+### 🌱 WarmLeaf  
+**Charity & donation platform**
+
+WarmLeaf is a project aimed at helping people by allowing users to donate items they no longer need.  
+The platform focuses on simplicity and accessibility.
+
+**Features:**
+- Item donation system  
+- Asynchronous data handling  
+- Clean and minimal UI  
+
+**Tech Stack:** Next.js, JSON-based database
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Mangyec2009&show_icons=true&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mangyec2009&theme=dark)
+
+---
+
+## 📫 Contact Me
+- 💬 Telegram: @your_username  
+- 📧 Email: yourmail@gmail.com  
+
+---
+
+⭐ Feel free to check out my repositories and follow my journey!
