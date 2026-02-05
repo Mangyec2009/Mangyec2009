@@ -1,17 +1,23 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1b5e20,100:4caf50&height=220&section=header&text=Full-Stack%20Developer&fontColor=ffffff&fontSize=42&desc=Amin%20Naz%C4%B1rov%20%E2%80%A2%20Building%20Modern%20Web%20Applications&descAlignY=65)
+
 # 👋 Hi, I'm Amin
 
-## 🚀 Full-Stack / Web Developer
+## 🚀 Full-Stack Web Developer
 
-I'm a developer who loves building modern, fast and clean web applications.
-I enjoy turning complex ideas into simple, user-friendly solutions.
+I am a passionate Full-Stack Developer focused on building **modern, scalable, and high-performance web applications**.  
+I enjoy working across the entire stack — from designing intuitive user interfaces to developing reliable backend systems and APIs.
+
+My goal is to create products that are not only functional, but also **clean, maintainable, and enjoyable to use**.  
+I’m especially interested in real-world projects such as **online services, e-commerce platforms, and social applications**.
 
 ---
 
 ## 💡 About Me
-- ⚛️ Frontend: React / Next.js
-- 🧠 Backend: Node.js / Python (FastAPI / Django)
-- 🎮 Interested in game dev & 3D (Blender)
-- 🥊 Muay Thai enthusiast
+- ⚛️ Strong focus on **React & Next.js**
+- 🧠 Backend experience with **APIs and databases**
+- 🛠️ Love building admin panels & dashboards
+- 🎮 Interested in game development & 3D (Blender)
+- 🥊 Practicing Muay Thai
 
 ---
 
@@ -21,32 +27,41 @@ I enjoy turning complex ideas into simple, user-friendly solutions.
 ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 ### Backend
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 
-### Tools
+### Databases & Tools
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_USERNAME&show_icons=true&theme=dark)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_USERNAME&theme=dark)
+## 🚀 Featured Projects
+
+### 🏎️ Motor TJ  
+**Online car service & spare parts platform**
+
+Motor TJ is a web-based platform designed for car owners and automotive services.  
+It combines an online spare parts store with service listings, creating a convenient all-in-one solution.
+
+**Features:**
+- Online catalog of auto parts  
+- Car-related services & service information  
+- User-friendly and responsive interface  
+- Scalable architecture for future expansion  
+
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Backend API
 
 ---
 
-## 🚀 Projects
-- 🌱 **WarmLeaf** — charity platform
-- 🎮 **Mini Web Game** — practice project
-- 💻 **Portfolio Website**
+### 📸 Instagram Clone  
+**Social media platform inspired by Instagram**
 
----
-
-## 📫 Contact
-- Telegram: @your_username
-- Email: yourmail@gmail.com
+A social media application that replicates the core functionality of Instagram.  
+Built to practice real-world features such as authentication, content
