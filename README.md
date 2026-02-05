@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1b5e20,100:4caf50&height=220&section=header&text=Full-Stack%20Developer&fontColor=ffffff&fontSize=42&desc=Amin%20Naz%C4%B1rov%20%E2%80%A2%20Building%20Modern%20Web%20Applications&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1b5e20,100:4caf50&height=220&section=header&text=Full-Stack%20Developer&fontColor=ffffff&fontSize=42&desc=Amin%20Dzhalilov%20%E2%80%A2%20Building%20Modern%20Web%20Applications&descAlignY=65)
 
 # 👋 Hi, I'm Amin
 
