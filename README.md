@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Amin
 
-## 🚀 Full-Stack Web Developer
+## 🚀 Web Developer
 
 I am a passionate Full-Stack Developer focused on building **modern, scalable, and high-performance web applications**.  
 I enjoy working across the entire stack — from designing intuitive user interfaces to developing reliable backend systems and APIs.
